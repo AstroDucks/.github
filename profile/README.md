@@ -1,5 +1,9 @@
 # About us
 
+We are a small team of currently three developers who love to code in their job and free time. We also like rubber ducks. And space. What a surprise we came up with name "AstroDucks". 🦆
+
+# What we are working on
+
 ### Welcome to the future of Gameserver management for [Squad](https://joinsquad.com/), 
 where we seamlessly blend innovation and excitement to create unforgettable memories for every player on your Squad battlefield. Our cutting-edge platform empowers you with a suite of mind-blowing modules, ensuring that your gameserver stands out as a beacon of excellence.
 
