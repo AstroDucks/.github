@@ -2,6 +2,8 @@
 
 We are a small team of currently three developers who love to code in their job and free time. We also like rubber ducks. And space. What a surprise we came up with the name "AstroDucks". 🦆
 
+![AstroDuck](https://github.com/AstroDucks/.github/blob/main/profile/zavychromaxl_v21.safetensors_astroduck_00014_.png)
+
 # What we are working on
 
 ### Welcome to the future of Gameserver management for [Squad](https://joinsquad.com/), 
