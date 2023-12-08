@@ -1,6 +1,6 @@
 # About us
 
-We are a small team of currently three developers who love to code in their job and free time. We also like rubber ducks. And space. What a surprise we came up with name "AstroDucks". 🦆
+We are a small team of currently three developers who love to code in their job and free time. We also like rubber ducks. And space. What a surprise we came up with the name "AstroDucks". 🦆
 
 # What we are working on
 
